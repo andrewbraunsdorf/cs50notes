@@ -1,0 +1,10 @@
+Pseudocode- no specific definition but way to write out a problem for a human
+Conditions, if statement
+Functions, booleans, loops
+Scratch is a web based system, where programs were created
+Its a program that is predefined and you choose the order
+There is a nesting of functions
+Category of blocks called sound.
+Initialize
+Mess with inputs to output results
+Use if states and if false do xyz, but have a if true do not perform those tasks.
